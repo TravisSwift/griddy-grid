@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kevin-powell/portfolio-with-css-grid.git"
+    "url": "https://github.com/TravisSwift/griddy-grid"
   },
   "author": "Travis Swift",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/kevin-powell/portfolio-with-css-grid/issues"
   },
-  "homepage": "https://github.com/kevin-powell/portfolio-with-css-grid#readme",
+  "homepage": "",
   "devDependencies": {
     "browser-sync": "^2.18.13",
     "gulp": "^3.9.1",
